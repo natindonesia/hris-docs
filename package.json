@@ -4,6 +4,7 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
+    "vite-plugin-vitepress-auto-sidebar": "^1.7.1",
     "vitepress": "^1.6.3"
   },
   "peerDependencies": {
