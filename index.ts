@@ -1,1 +1,1 @@
-console.log("Hello via Bun!");
+console.log("Keep the tsconfig.json happy")
