@@ -11,11 +11,8 @@ hero:
 
   actions:
     - theme: brand
-      text: Get Started
-      link: /guide/getting-started
-    - theme: alt
-      text: View API
-      link: /api/overview
+      text: Documentation
+      link: /documentation/getting-started
     - theme: alt
       text: Configure
       link: /config/basic-setup
