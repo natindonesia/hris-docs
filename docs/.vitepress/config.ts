@@ -13,11 +13,12 @@ export default defineConfig({
       { text: 'Configuration', link: '/config/basic-setup' }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername/hris' }
+      { icon: 'github', link: 'https://github.com/natindonesia/hris-docs' }
     ],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024 Your Organization'
+      
+      copyright: 'Copyright © 2025 NAT Indonesia',
+      message: 'Made with ❤️ by NAT Indonesia'
     }
   },
   vite: {
